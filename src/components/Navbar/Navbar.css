@@ -1,0 +1,33 @@
+.logo-image{
+    height: 30px;
+}
+input[type=text] {
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdS4yPWVvUEmYW4LD0odcMTB_BmI35J-x6Q&s');
+    background-size:  25px;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    box-shadow: 1px 1px lightgrey;
+  }
+
+  .search{
+    border-radius: 20px;
+  }
+s
+  .GPS{
+    margin-right:50px
+  }
+
+  .gps-icon{
+    margin-right:10px
+  }
+
+  .navbar{
+    margin-bottom: 30px;
+  }

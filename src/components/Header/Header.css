@@ -1,0 +1,9 @@
+.flex-container{
+    display: flex;
+}
+
+.nav-tabs{
+    height: 70px;
+    font-size: 30px;
+    font-weight: bold;
+}

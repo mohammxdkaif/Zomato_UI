@@ -1,0 +1,19 @@
+.grey-div{
+    height: 150px;
+    width: 100%;
+    background-color: #F8F8F8;
+    display: flex;
+}
+
+.image-rounded{
+height: 150px;
+border-radius: 50%;
+}
+
+.margin-text{
+    text-align: center;
+}
+
+.food{
+    margin: 0px 0px 20px 0px;
+}

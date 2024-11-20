@@ -1,0 +1,16 @@
+.restaurant-card{
+    height: 150px;
+    width: 200px;
+}
+.restaurant-component{
+    margin-top: 100px;
+}
+.title-details{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+.rating{
+    font-size: 10px;
+    padding-bottom: 1.2px;
+}
